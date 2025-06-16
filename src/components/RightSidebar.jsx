@@ -74,10 +74,10 @@ const RightSidebar = () => {
           <Box sx={{ position: "relative", zIndex: 1 }}>
             <StarsIcon sx={{ fontSize: 40, mb: 1, opacity: 0.9 }} />
             <Typography variant="h6" sx={{ fontWeight: 700, mb: 1 }}>
-              Enroll in CA Inter Foundation
+              Enroll in FrontEnd Development Course
             </Typography>
             <Typography variant="body2" sx={{ mb: 2, opacity: 0.9 }}>
-              Get Tally Free with exclusive benefits
+              Get HTML Free with exclusive benefits
             </Typography>
             <Button
               variant="contained"
